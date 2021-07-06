@@ -1,0 +1,48 @@
+body
+{
+	background:linear-gradient(#ff0055 0%,#94f4ff 100%);
+    height:100%;
+    width:100%;
+}
+
+	.login_div1 , .login_div2
+	{
+		background:linear-gradient(#ff0055 0%,#94f4ff 100%);
+    height:100%;
+    width:100%;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:linear-gradient(#ff0055 0%,#94f4ff 100%);
+    height:100%;
+    width:100%;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+button{
+ background-color: aliceblue;  
+}
+h3{
+   color: aliceblue;
+
